@@ -1,2 +1,2 @@
-# LoginApp
+# SwiftUI LoginApp
 SwiftUI Login App
